@@ -203,12 +203,12 @@ margin-right: 30px;
 }
 
 .logreg-box.active .form-box.login{
-    transform: translateX(450px);
+    transform: translateX(430px);
     transition-delay: 0s;
 }
 
 .logreg-box .form-box.register {
-    transform: translateX(455px);
+    transform: translateX(430px);
     transition: transform .5s ease;
 }
 
